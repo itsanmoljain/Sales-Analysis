@@ -70,4 +70,4 @@ Represent the distribution of customers based on the number of orders they have 
 ### Data Filters
 Allow users to filter data by product information like category and subcategory and by location information like region, state and city.
 
-Dashboard is also available on my [tableau public](https://public.tableau.com/views/Sales_17266980924090/SalesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) account
+##Dashboard is also available on my [tableau public](https://public.tableau.com/views/Sales_17266980924090/SalesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) account
