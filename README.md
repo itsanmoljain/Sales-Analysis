@@ -6,7 +6,7 @@ This analysis was done to learn the tableau
 ## Data Collection
 Data is collected from [@datawithbarra](https://www.datawithbaraa.com/tableau/tableau-sales-project-thank-you/)
 (Also available in the data folder)
-## Introduction
+# Introduction
 This user story outlines the specifications for building two dashboards using tableau to help stakeholders, including sales managers and executives to analyze sales performance and customers. 
 ## Sales Dashboard | Requirements
 ### Dashboard Purpose
