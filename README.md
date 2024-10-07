@@ -1,4 +1,4 @@
-# Sales Analysis
+# Sales Analysis Dashboard
 
 This analysis was done to learn the tableau 
 
